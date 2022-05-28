@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bs/FcY6dXcwXpykbMpOiD4qvpip9Q4H5u1hO+BY2k80dk+6sEyWcVNfu451tQc2Hu4ybVerskWDA8221epxmgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nik\\source\\repos\\APITestForm\\APITestForm\\APITestForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nik\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
