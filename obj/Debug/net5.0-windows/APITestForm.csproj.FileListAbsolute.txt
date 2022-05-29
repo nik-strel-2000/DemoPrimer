@@ -1,5 +1,4 @@
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.csproj.AssemblyReference.cache
-C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.Form1.resources
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.csproj.GenerateResource.cache
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.AssemblyInfoInputs.cache
@@ -18,4 +17,11 @@ C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITe
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.genruntimeconfig.cache
 C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
 C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.csproj.CopyComplete
-C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.Form2.resources
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.Primer.resources
+C:\Users\Nik\source\repos\APITestForm\APITestForm\obj\Debug\net5.0-windows\APITestForm.WorkedDataBase.resources

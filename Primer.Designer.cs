@@ -1,7 +1,7 @@
 ﻿
 namespace APITestForm
 {
-    partial class Form2
+    partial class Primer
     {
         /// <summary>
         /// Required designer variable.
@@ -146,7 +146,7 @@ namespace APITestForm
             this.SourseText.TabIndex = 11;
             this.SourseText.TextChanged += new System.EventHandler(this.SourseText_TextChanged);
             // 
-            // Form2
+            // Primer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -163,8 +163,8 @@ namespace APITestForm
             this.Controls.Add(this.UpdateBT);
             this.Controls.Add(this.Postbt);
             this.Controls.Add(this.Download);
-            this.Name = "Form2";
-            this.Text = "Form2";
+            this.Name = "Primer";
+            this.Text = "WorkedApiRequst";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

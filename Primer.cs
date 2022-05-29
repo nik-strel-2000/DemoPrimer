@@ -13,10 +13,10 @@ using System.Windows.Forms;
 
 namespace APITestForm
 {
-    public partial class Form2 : Form
+    public partial class Primer : Form
     {
         List<Employee> EmployeesList = new List<Employee>();
-        public Form2()
+        public Primer()
         {
             InitializeComponent();
         }
@@ -82,15 +82,15 @@ namespace APITestForm
 
         private void comboBoxName_SelectedIndexChanged(object sender, EventArgs e)
         {
-            //List<Employee> sortEmployee = new List<Employee>();
-            //foreach (Employee employee in EmployeesList)
-            //{
-            //    if (employee.Id == ((KeyValuePair<long, string>)comboBoxName.SelectedItem).Key)
-            //    {
-            //        sortEmployee.Add(employee);
-            //    }
-            //}
-            //dataGridView1.DataSource = sortEmployee;
+            List<Employee> sortEmployee = new List<Employee>();
+            foreach (Employee employee in EmployeesList)
+            {
+                if (employee.Id == ((KeyValuePair<long, string>)comboBoxName.SelectedItem).Key)
+                {
+                    sortEmployee.Add(employee);
+                }
+            }
+            dataGridView1.DataSource = sortEmployee;
         }
 
         private void SourseText_TextChanged(object sender, EventArgs e)
